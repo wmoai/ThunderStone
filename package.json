@@ -1,0 +1,15 @@
+{
+    "name": "ThunderStone",
+    "version": "0.0.1",
+    "dependencies": {
+        "coffee-script": "1.2.0",
+        "express": "2.5.4",
+        "jade": "0.20.0",
+        "now": "0.8.1"
+    },
+    "engines": {
+        "node":">= 0.6.6",
+        "coffee-script": ">= 1.2.0"
+    }
+}
+
